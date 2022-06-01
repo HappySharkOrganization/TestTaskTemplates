@@ -1,1 +1,1 @@
-{"name":"pyhton3Base","environmentVariables":[],"params":[],"title":"pyhton3Base"}
+{"name":"pyhton3Base","environmentVariables":[],"params":["--debug","--verbose"],"title":"pyhton3Base","id":0}
