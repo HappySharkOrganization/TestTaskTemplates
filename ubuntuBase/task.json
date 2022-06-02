@@ -1,1 +1,1 @@
-{"name":"ubuntuBase","environmentVariables":[],"params":[],"title":"ubuntuBase"}
+{"name":"ubuntuBase","environmentVariables":[],"params":["--debug","--verbose"],"title":"ubuntuBase","id":2}
