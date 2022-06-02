@@ -1,1 +1,1 @@
-{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"pyhton3Base","dependsOn":[],"location":{"x":254,"y":128}}]}
+{"version":0.1,"globalEnvironmentVariables":[],"tasks":[{"task":"pyhton3Base","dependsOn":[],"location":{"x":30,"y":14}},{"task":"tensorFlowBase","dependsOn":[],"location":{"x":265,"y":11}},{"task":"ubuntuBase","dependsOn":[],"location":{"x":71,"y":199}}]}
