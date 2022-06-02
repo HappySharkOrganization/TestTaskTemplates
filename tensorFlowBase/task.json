@@ -1,1 +1,1 @@
-{"name":"tensorFlowBase","environmentVariables":[],"params":[],"title":"tensorFlowBase"}
+{"name":"tensorFlowBase","environmentVariables":[],"params":["--debug","--verbose"],"title":"tensorFlowBase","id":1}
